@@ -1,0 +1,24 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ace-builds": "^1.2.6",
+    "angular-ui-ace": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasonjim/ui-ace-editor-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasonjim/ui-ace-editor-sample/issues"
+  },
+  "homepage": "https://github.com/kasonjim/ui-ace-editor-sample#readme"
+}
